@@ -1,4 +1,4 @@
-# Studio4
+# Studio7
 
 Studio4 is a creator of custom furniture and clothing for The Sims 4.
 
@@ -6,7 +6,7 @@ We design original content for players who want more style, detail, and personal
 
 ## Project Status
 
-Studio4 is currently in development.
+Studio7 is currently in development.
 
 The application is still being built and is not available yet. We are actively working on it, and more information will be shared once it is ready.
 
@@ -27,4 +27,4 @@ Check back later for updates, release information, and previews.
 
 ---
 
-Studio4 — Furniture and clothing for The Sims 4. Coming soon.
+Studio7 — Furniture and clothing for The Sims 4. Coming soon.

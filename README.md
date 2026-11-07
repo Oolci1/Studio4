@@ -15,7 +15,7 @@ The application is still being built and is not available yet. We are actively w
 - Custom furniture for The Sims 4
 - Custom clothing for The Sims 4
 - Original, carefully designed content
-- A dedicated application for browsing and managing Studio4 creations
+- A dedicated application for browsing and managing Studio7 creations
 
 ## Availability
 

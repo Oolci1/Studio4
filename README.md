@@ -1,6 +1,6 @@
 # Studio7
 
-Studio4 is a creator of custom furniture and clothing for The Sims 4.
+Studio7 is a creator of custom furniture and clothing for The Sims 4.
 
 We design original content for players who want more style, detail, and personality in their game, from unique furniture pieces to custom clothing for their Sims.
 
